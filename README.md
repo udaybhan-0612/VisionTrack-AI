@@ -7,7 +7,7 @@
 | **Intern ID** | CITS8162 |
 | **Project Name** | VisionTrack AI |
 | **Project Scope** | Intelligent Object Detection, Multi-Object Tracking & Computer Vision Analytics |
-| **Duration** | 1 Week |
+| **Duration** | 4 Weeks |
 | **Project Domain** | Artificial Intelligence & Computer Vision |
 
 
