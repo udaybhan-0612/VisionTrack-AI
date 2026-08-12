@@ -1,0 +1,39 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# YOLO model weights
+*.pt
+
+# Generated outputs
+runs/
+outputs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Python logs
+*.log
